@@ -1,13 +1,15 @@
 ## Markdown Examples
 
--headings
--unordered lists
--ordered lists
--text formatting
--code
--tables
--autolists
--lists
--images
--links
+    -headings
+    -unordered lists
+    -text formatting
+    -code
+    -tables
+    -links
+    -images
+    -autolists
+    -lists
 
+## Unordered Lists
+
+We can create unordered lists in markdown using hyphens
